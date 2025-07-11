@@ -1,0 +1,25 @@
+{
+  "name": "jalsoft/zstats",
+  "description": "A PHP library for statistical calculations including normal, t, and chi-square distributions.",
+  "type": "library",
+  "license": "MIT",
+  "authors": [
+    {
+      "name": "Calvince Owino",
+      "email": "t313jalikoa@gmail.com"
+    }
+  ],
+  "minimum-stability": "dev",
+  "require": {
+    "php": "^8.0",
+    "monolog/monolog": "^3.0"
+  },
+  "autoload": {
+    "psr-4": {
+      "ZStats\\": "src/"
+    }
+  },
+  "require-dev": {
+    "phpunit/phpunit": "^9.6"
+  }
+}
