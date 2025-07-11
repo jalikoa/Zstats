@@ -1,0 +1,1 @@
+{"version":1,"defects":{"ZStatsTest::testTcdf":3,"ZStatsTest::testZTableExport":4},"times":{"ZStatsTest::testZScore":0,"ZStatsTest::testMarginOfError":0,"ZStatsTest::testConfidenceInterval":0,"ZStatsTest::testTcdf":0,"ZStatsTest::testChiSquareCDF":0,"ZStatsTest::testZTableExport":0.002}}
